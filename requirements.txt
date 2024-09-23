@@ -1,0 +1,14 @@
+wldhx.yadisk-direct
+scikit-survival
+kornia
+kornia-rs
+pytorch-lightning
+hydra-core
+webdataset
+torch 
+torchvision 
+torchaudio 
+torchtext
+wget
+git+https://github.com/facebookresearch/segment-anything.git
+git+https://github.com/IDEA-Research/GroundingDINO.git
