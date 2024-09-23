@@ -37,7 +37,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/luckygyana/Image-Position-Editing.git
+    git clone https://github.com/anshulkumar363/Image-Position-Editing1.git
     cd ImageEditor
     ```
 
